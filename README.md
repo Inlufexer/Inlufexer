@@ -1,5 +1,5 @@
 ## Hello
-## I'm learning Github for gamedev passion projects
+## I use Github for gamedev projects
 ## Trying to learn pixel art
 
 <!--
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- #Hi
